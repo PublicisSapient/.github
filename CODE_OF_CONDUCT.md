@@ -1,4 +1,4 @@
-# Communications Code of Conduct (CCOC)
+# Community Code of Conduct (CCOC)
 
 This document originates from work led by Eiko Kawano [over here](https://ps.blog/2019/09/24/community-code-of-conduct-psx/) together with a host of Publicis Sapient team members. We use it as a set of ground rules for when we use electronic forums for connecting with each other — and they are based in the five core values of Publicis Sapient.
 
@@ -61,3 +61,6 @@ _Generate possibilities and use the power of creativity to innovate in ways that
 * Offer your opinion – even when (especially when) it feels scary to do so. 
 * Be playful.  
 * Remember: our purpose propels us forward. When we live from a place of purpose, the passion we have for that purpose enables the future. There are others here who likely share a purpose similar to yours; when you find them, look for ways to create a vision for the future. 
+
+# License
+This code of conduct is licensed under the [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0)
