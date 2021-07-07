@@ -12,7 +12,7 @@ This document originates from work led by Eiko Kawano [over here](https://ps.blo
 
 Our Communications Code of Conduct is informed by our Core Values. We believe in:  
 
-# 1. Inclusive Collaboration  
+## 1. Inclusive Collaboration  
 
 _Create space for multiple voices and integrate diverse perspectives to realize shared goals._
 
@@ -22,7 +22,7 @@ _Create space for multiple voices and integrate diverse perspectives to realize 
 * Add people to the channel – especially if you think they can offer a new point of view. 
 * Never make someone feel uncomfortable or threatened. 
 
-# 2. Engaging with Openness 
+## 2. Engaging with Openness 
 
 _Share and seek ideas and dialogue openly to deepen understanding and connection with others._
 
@@ -32,7 +32,7 @@ _Share and seek ideas and dialogue openly to deepen understanding and connection
 * Make this a space where people can be vulnerable.  
 * Never use someone’s vulnerability against them. 
 
-# 3. Partnering for Client Impact 
+## 3. Partnering for Client Impact 
 
 _Care about our clients’ problems and partner for extraordinary impact and long-term, sustained success._ 
 
@@ -42,7 +42,7 @@ _Care about our clients’ problems and partner for extraordinary impact and lon
 * When giving feedback on work, encourage outcome-driven thinking. What’s the intended impact of this work? What’s the long-term goal?  
 * Put yourself in your client’s shoes and consider their professional aspirations as an important piece of their equation — ask how you can help them. 
 
-# 4. Learning Mindset 
+## 4. Learning Mindset 
 
 _Find the courage to question what we know, take risks and learn continuously to unlock potential in ourselves and others._ 
 
@@ -52,7 +52,7 @@ _Find the courage to question what we know, take risks and learn continuously to
 * Remember that different people learn differently, and some may need time to digest ideas before responding. 
 * Replace judgement with curiosity.  
 
-# 5. Embracing the Future 
+## 5. Embracing the Future 
 
 _Generate possibilities and use the power of creativity to innovate in ways that matter to people._ 
 
@@ -62,5 +62,5 @@ _Generate possibilities and use the power of creativity to innovate in ways that
 * Be playful.  
 * Remember: our purpose propels us forward. When we live from a place of purpose, the passion we have for that purpose enables the future. There are others here who likely share a purpose similar to yours; when you find them, look for ways to create a vision for the future. 
 
-# License
+## License
 This code of conduct is licensed under the [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0)
