@@ -1,6 +1,6 @@
 # Community Code of Conduct (CCOC)
 
-This document originates from work led by Eiko Kawano [over here](https://ps.blog/2019/09/24/community-code-of-conduct-psx/) together with a host of Publicis Sapient team members. We use it as a set of ground rules for when we use electronic forums for connecting with each other — and they are based in the five core values of Publicis Sapient.
+This document originates from work led by Eiko Kawano together with a host of Publicis Sapient team members. We use it as a set of ground rules for when we use electronic forums for connecting with each other — and they are based in the five core values of Publicis Sapient.
 
 **The Short Version: Be a Good Human.** 
 
